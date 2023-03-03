@@ -49,7 +49,7 @@ This project is licensed under the Apache Software License, version 2.0 except a
 * [Done] Step 3: Create Property Binding
 * [Done] Step 4: Two-Way Data Binding
 * [Done] Step 5: One-Way Data Binding
-* Step 6: Resource Models
+* [Done] Step 6: Resource Models
 * Step 7: (Optional) Resource Bundles and Multiple Languages
 * Step 8: Binding Paths: Accessing Properties in Hierarchically Structured Models
 * Step 9: Formatting Values
