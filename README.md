@@ -46,7 +46,7 @@ This project is licensed under the Apache Software License, version 2.0 except a
 
 * [Done] Step 1: No Data Binding
 * [Done] Step 2: Creating a Model
-* Step 3: Create Property Binding
+* [Done] Step 3: Create Property Binding
 * Step 4: Two-Way Data Binding
 * Step 5: One-Way Data Binding
 * Step 6: Resource Models
