@@ -52,7 +52,7 @@ This project is licensed under the Apache Software License, version 2.0 except a
 * [Done] Step 6: Resource Models
 * [Done] Step 7: (Optional) Resource Bundles and Multiple Languages
 * [Done] Step 8: Binding Paths: Accessing Properties in Hierarchically Structured Models
-* Step 9: Formatting Values
+* [Done] Step 9: Formatting Values
 * Step 10: Property Formatting Using Data Types
 * Step 11: Validation Using the Message Manager
 * Step 12: Aggregation Binding Using Templates
