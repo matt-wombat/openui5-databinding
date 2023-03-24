@@ -54,7 +54,7 @@ This project is licensed under the Apache Software License, version 2.0 except a
 * [Done] Step 8: Binding Paths: Accessing Properties in Hierarchically Structured Models
 * [Done] Step 9: Formatting Values
 * [Done] Step 10: Property Formatting Using Data Types
-* Step 11: Validation Using the Message Manager
+* [Done] Step 11: Validation Using the Message Manager
 * Step 12: Aggregation Binding Using Templates
 * Step 13: Element Binding
 * Step 14: Expression Binding
